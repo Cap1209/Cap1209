@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lorenzo Capozzoli 👋
 
-<!--
-**Cap1209/Cap1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with a background in Project Management.
+I recently completed an intensive full stack training program, building strong skills in both backend and frontend development with a focus on quality and clean architecture.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Backend:** Java 21 · Spring Boot · Spring Security · JWT · REST API  
+**Frontend:** Angular · TypeScript · HTML · CSS  
+**Database:** PostgreSQL · SQL  
+**Tools:** Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### EventIO
+A ticketing platform for event management and ticket purchasing.
+Features an integrated payment system and automated email delivery of PDF tickets.
+
+## 📫 Get in touch
+- LinkedIn: [Lorenzo Capozzoli](https://www.linkedin.com/in/lorenzo-capozzoli-2bb7b6196/)
